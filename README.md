@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Exploratory data analysis assignment
+> This is a project for assignment to be submitted for the course Executive PG Programme in Machine Learning & AI.
 
 
 ## Table of Contents
@@ -11,18 +11,18 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- We have to analyse the data provided for fintech company.
+- This project is to clean the data given and analyse on univariate and bivariate?
+- We have to analyse the given data for different columns for charged off and fully paid loans given to customers?
+- dataset (loan.csv) has been provided in the assignment
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Higher interest rate loan are more likely to be charged off 
+- Duration of loan does not make much impact on getting it charged off or fully paid
+- We mostly give loan in range of 5000-15000
+- Overall 14.33% of loans get charged off
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -42,11 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@98abhilash] and [@manish-mithilasoft] - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
